@@ -1,0 +1,14 @@
+{
+  "name": "load-balancer",
+  "author": "Travis Burandt",
+  "version": "1.0.0",
+  "description": "made by underwind... ======== Hello, thank you for taking the time in reviewing us for your consideration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}

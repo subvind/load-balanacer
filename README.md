@@ -1,7 +1,7 @@
 made by underwind...
 ========
-Hello,
-thank you for taking the time in reviewing us for your consideration.
+Hello There!
+Thank you for taking the time in reviewing us for your consideration.
 
 Websites are like sail boats. They require a main haul or backend API. They require a main mast or frontend interface. When put together and under the right wind-conditions/user-interations your boat/project can successfully navigate to it's destination.
 
